@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cn.thoughtworks.pre-java-pos.iml" filepath="$PROJECT_DIR$/.idea/modules/cn.thoughtworks.pre-java-pos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cn.thoughtworks.pre-java-pos.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cn.thoughtworks.pre-java-pos.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cn.thoughtworks.pre-java-pos.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cn.thoughtworks.pre-java-pos.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/test/test.iml" filepath="$PROJECT_DIR$/src/test/test.iml" />
     </modules>
